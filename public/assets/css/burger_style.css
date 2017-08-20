@@ -1,0 +1,81 @@
+body, html, h1, h2, h3, p {
+  background-color: #191919;
+  size: 2em;
+}
+p {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#title {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  letter-spacing: 8px;
+}
+
+div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin: auto;
+}
+.top-bun {
+  background-color: white;
+  height: 60px;
+  width: 300px;
+  border-radius: 80% 80% 5% 5%;
+}
+.bottom-bun {
+  background-color: white;
+  height: 30px;
+  width: 300px;
+  border-radius: 10% 10% 10% 10%;
+}
+
+.food {
+  text-align: left;
+}
+.burger-status {
+  color: white;
+}
+
+#notEaten li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  color: white;
+}
+#notEaten button {
+  border-radius: 3px;
+  border: 1px solid #555;
+  margin-left: 15px;
+}
+
+#eaten li {
+  width: 200px;
+  text-align: left;
+  margin-bottom: 6px;
+  padding: 10px 5px;
+  color: white;
+}
+.new-burger {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 300px;
+}
+
+.eat-me {
+  background-color: #E30B0B;
+}
