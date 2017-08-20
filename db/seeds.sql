@@ -1,9 +1,9 @@
 INSERT INTO burgers (burger_name)
-VALUES ('In n Out');
+VALUES ('Big Mac');
 
 INSERT INTO burgers (burger_name)
-VALUES ('Umami');
+VALUES ('Whopper');
 
 INSERT INTO burgers (burger_name)
-VALUES ('Bob\'s');
+VALUES ('The square one from Wendy\'s');
 

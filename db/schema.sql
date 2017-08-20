@@ -8,4 +8,4 @@ CREATE TABLE burgers (
         PRIMARY KEY(id)
 );
 
-Select * from burgers;
+
